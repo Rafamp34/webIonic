@@ -1,0 +1,844 @@
+# Carpeta de dependencias
+/node_modules
+
+# Archivos de compilación
+/dist
+
+# Archivos de configuración
+/.env
+
+# Archivos de registro
+/logs
+
+# Archivos de respaldo
+/backup
+
+# Archivos de caché
+/.cache
+
+# Archivos de IDE
+/.vscode
+/.idea
+
+# Archivos de compilación de TypeScript
+*.js
+*.js.map
+
+# Archivos de compilación de CSS
+*.css
+*.css.map
+
+# Archivos de compilación de SASS
+*.scss
+*.sass.map
+
+# Archivos de compilación de Less
+*.less
+*.less.map
+
+# Archivos de compilación de Stylus
+*.styl
+*.styl.map
+
+# Archivos de compilación de CoffeeScript
+*.coffee
+*.coffee.map
+
+# Archivos de compilación de Babel
+*.babel.js
+*.babel.js.map
+
+# Archivos de compilación de Webpack
+*.bundle.js
+*.bundle.js.map
+
+# Archivos de compilación de Rollup
+*.rollup.js
+*.rollup.js.map
+
+# Archivos de compilación de Parcel
+*.parcel.js
+*.parcel.js.map
+
+# Archivos de compilación de Browserify
+*.browserify.js
+*.browserify.js.map
+
+# Archivos de compilación de Grunt
+*.grunt.js
+*.grunt.js.map
+
+# Archivos de compilación de Gulp
+*.gulp.js
+*.gulp.js.map
+
+# Archivos de compilación de Brunch
+*.brunch.js
+*.brunch.js.map
+
+# Archivos de compilación de Yeoman
+*.yo.js
+*.yo.js.map
+
+# Archivos de compilación de Meteor
+*.meteor.js
+*.meteor.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
+*.polymer.js.map
+
+# Archivos de compilación de Lit
+*.lit.js
+*.lit.js.map
+
+# Archivos de compilación de Alpine
+*.alpine.js
+*.alpine.js.map
+
+# Archivos de compilación de Stimulus
+*.stimulus.js
+*.stimulus.js.map
+
+# Archivos de compilación de Knockout
+*.knockout.js
+*.knockout.js.map
+
+# Archivos de compilación de Backbone
+*.backbone.js
+*.backbone.js.map
+
+# Archivos de compilación de Ember
+*.ember.js
+*.ember.js.map
+
+# Archivos de compilación de Angular
+*.angular.js
+*.angular.js.map
+
+# Archivos de compilación de Vue
+*.vue.js
+*.vue.js.map
+
+# Archivos de compilación de React
+*.react.js
+*.react.js.map
+
+# Archivos de compilación de Preact
+*.preact.js
+*.preact.js.map
+
+# Archivos de compilación de Svelte
+*.svelte.js
+*.svelte.js.map
+
+# Archivos de compilación de Riot
+*.riot.js
+*.riot.js.map
+
+# Archivos de compilación de Polymer
+*.polymer.js
