@@ -10,21 +10,24 @@
   <ion-header>
     <ion-toolbar>
       <ion-title>Create a Card</ion-title>
-      <ion-tittle> </ion-tittle>
     </ion-toolbar>
   </ion-header>
-  
+
   <ion-content>
     <ion-card>
       <ion-card-content>
         <ion-item>
-          <ion-input id="inputText" type="text" placeholder="Enter some text"></ion-input>
+          <ion-input id="inputText" placeholder="Enter some text"></ion-input>
         </ion-item>
         <ion-button id="createBtn" expand="full">Create Card</ion-button>
-        <div id="cardContainer"></div>
       </ion-card-content>
     </ion-card>
+
+    <ion-grid>
+      <ion-row id="cardContainer"></ion-row>
+    </ion-grid>
   </ion-content>
+
   
   <script src="index.js"></script>
   <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
